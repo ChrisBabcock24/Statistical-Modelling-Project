@@ -59,3 +59,10 @@ I would determine a functional way to return Foursquare ratings and rating count
 Finding more insights that affect the rating. Finding other documentation to use in tables. 
 I would find better methods to clean null values without losing a substantial amount of relevent data. 
 Create a model that better explained the variance. Find other input variables.
+
+NOTE: CHANGED API REQUESTS TO STORE THE ORIGINAL REFERENCED LATITUDE AND LONGITUDE IN DATAFRAMES TO BE ABLE TO MERGE LATER
+NOTICED THIS WHEN RE-SUBMITTING PROJECT.
+ALL VISUALIZATIONS MADE WERE CREATED IN THE NOTEBOOK - Visualization Exploration.ipynb
+ONE EXAMPLE WAS PROVIDED IN THE ASSIGNMENT NOTEBOOK AS WELL. 
+EDA PROCESS WAS PERFORMED IN NOTEBOOK eda_stats_model_Testing.ipynb
+THIS WAS DONE TO BETTER ORGANIZE AND NOT CLUTTER THE MAIN NOTEBOOK PROVIDED BY THE BOOTCAMP
